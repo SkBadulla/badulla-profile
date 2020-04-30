@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/badulla-profile/static/css/main.4bc37963.chunk.css",
+    "main.js": "/badulla-profile/static/js/main.7ead45be.chunk.js",
+    "main.js.map": "/badulla-profile/static/js/main.7ead45be.chunk.js.map",
+    "runtime-main.js": "/badulla-profile/static/js/runtime-main.6af811fb.js",
+    "runtime-main.js.map": "/badulla-profile/static/js/runtime-main.6af811fb.js.map",
+    "static/js/2.a5fae8dc.chunk.js": "/badulla-profile/static/js/2.a5fae8dc.chunk.js",
+    "static/js/2.a5fae8dc.chunk.js.map": "/badulla-profile/static/js/2.a5fae8dc.chunk.js.map",
+    "index.html": "/badulla-profile/index.html",
+    "precache-manifest.c52b0d7b208ac4d18b4819b9cff1ab07.js": "/badulla-profile/precache-manifest.c52b0d7b208ac4d18b4819b9cff1ab07.js",
+    "service-worker.js": "/badulla-profile/service-worker.js",
+    "static/css/main.4bc37963.chunk.css.map": "/badulla-profile/static/css/main.4bc37963.chunk.css.map",
+    "static/js/2.a5fae8dc.chunk.js.LICENSE.txt": "/badulla-profile/static/js/2.a5fae8dc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6af811fb.js",
+    "static/js/2.a5fae8dc.chunk.js",
+    "static/css/main.4bc37963.chunk.css",
+    "static/js/main.7ead45be.chunk.js"
+  ]
+}
