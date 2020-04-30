@@ -1,0 +1,45 @@
+{
+  "profiles":[
+        {
+            "basicInformation": {
+                "name" : "Shaik Badulla",
+                "role" : "Multi skill Trainer",
+                "email" : "badullashaik507@gmail.com",
+                "mobile": "9490105208"
+            },
+            "education":[
+                {
+                    "degree":"Graduation",
+                    "institution": "B.TECH – Electronics and Communication Engineering FROM Guntur Engineering College In 2015"
+                },
+                {
+                    "degree":"Diploma",
+                    "institution":"12th – MPC from Loyola Polytechninc(YSRR) IN 2012"
+                },
+                {
+                    "degree":"SSC",
+                    "institution": "SSC From Z.P. High School IN 2009"
+                }
+            ],
+            "skill":[
+                {
+                    "t":"Web Technologies",
+                    "l":"HTML5"
+                },
+                {
+                    "t":"Programming Languages",
+                    "l":"C"
+                },
+                {
+                    "t":"Operating Systems",
+                    "l":"windows"
+                },
+                {
+                    "t":"Frameworks",
+                    "l":"Bootstrap"
+                }
+            ]
+        }
+
+    ]
+}
